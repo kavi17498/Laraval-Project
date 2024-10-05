@@ -1,0 +1,8 @@
+After install the package you need to run command
+install composer
+for install additional packages.
+
+--Day 02
+today i am going to learn about laravel packages like npm packges that i was use in Node.
+most of the packeges are include in the offical doccumantaion.
+first of all i am going to install breeze packge for fully authenticate the application.
